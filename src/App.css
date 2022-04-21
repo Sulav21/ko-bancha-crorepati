@@ -13,6 +13,7 @@ body{
 .main{
  width:75%; 
  background: linear-gradient(to bottom, rgba(0,0,0,0),#020230), url('sounds/assets/bg.jpg') no-repeat center center;
+ background-size: cover;
 
  display:flex;
  flex-direction: column;
@@ -167,3 +168,19 @@ font-weight: 300;
   right:0;
   margin:auto;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
