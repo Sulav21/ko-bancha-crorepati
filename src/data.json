@@ -1,0 +1,343 @@
+ [
+    {
+      "id": 1,
+      "question": "What is the capital of Nepal ?",
+      "answers": [
+        {
+          "text": "Pokhara",
+          "correct": false
+        },
+        {
+          "text": "Kathmandu",
+          "correct": true
+        },
+        {
+          "text": "Chitwan",
+          "correct": false
+        },
+        {
+          "text": "Lalitpur",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+     "question": "What is the height of Mt.Everest?",
+      "answers": [
+        {
+          "text": "8848 m",
+          "correct": true
+        },
+        {
+          "text": "3546 m",
+          "correct": false
+        },
+        {
+          "text": "8745 m",
+          "correct": false
+        },
+        {
+          "text": "3564 m",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Who Commissioned The Building Of Dharahara?",
+      "answers": [
+        {
+          "text": "Anshu Verma",
+          "correct": false
+        },
+        {
+          "text": "Bhimsen Thapa",
+          "correct": true
+        },
+        {
+          "text": "Amar Singh Thapa",
+          "correct": false
+        },
+        {
+          "text": "Kp Oli",
+          "correct": false
+        }
+      ]
+      
+    },
+    {
+      "id": 4,
+      "question": "Who Is The Author Of Renonwed Satirical Essay 'Jaya Bholi' And 'Jaya Bhudi' That You Read In Nepali Class?",
+      "answers": [
+        {
+          "text": "Bhim Niroula",
+          "correct": false
+        },
+        {
+          "text": "Lekhnath Poudel",
+          "correct": false
+        },
+        {
+          "text": "Bhupi Serchan",
+          "correct": false
+        },
+        {
+          "text": "Bhairab Aryal",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "What's The Highest Civilian Award Of Nepal?",
+      "answers":[
+        {
+          "text": "Madan Puraskar",
+          "correct": false
+        },
+        {
+          "text": "Order Of The Star Of Nepal",
+          "correct": false
+        },
+        {
+          "text": "NEFTA Film Awards",
+          "correct": false
+        },
+        {
+          "text": "Nepal Ratna Man Padvi",
+          "correct": true
+        }
+      ]
+    }
+    ,
+    {
+      "id": 6,
+      "question": "Tom Hanks Won His First Oscar For The Movie ____ ?",
+      "answers": [
+        {
+          "text": "Forrest Gump",
+          "correct": false
+        },
+        {
+          "text": "Cast Away",
+          "correct": false
+        },
+        {
+          "text": "Philadelphia",
+          "correct": true
+        },
+        {
+          "text": "Chakka Panja 2",
+          "correct": false
+        }
+      ]
+    }
+    ,
+    {
+      "id": 7,
+      "question": "What's The First Film Produced In Nepal?",
+      "answers": [
+        {
+          "text": "Avengers Endgame",
+          "correct": true
+        },
+        {
+          "text": "Satya Harischandra",
+          "correct": false
+        },
+        {
+          "text": "Aama",
+          "correct": true
+        },
+        {
+          "text": "Maitighar",
+          "correct": false
+        }
+      ]
+    }
+    ,
+    {
+      "id": 8,
+      "question": "One Of Atomic Bombs Dropped In Japan Was Named Fat Man, Can You Guess The Name Of Second Bomb?",
+      "answers": [
+        {
+          "text": "Little Lady",
+          "correct": false
+        },
+        {
+          "text": "Little Boy",
+          "correct": true
+        },
+        {
+          "text": "Fat Lady",
+          "correct": false
+        },
+        {
+          "text": "Tall Boy",
+          "correct": false
+        }
+      ]
+    }
+    ,
+    {
+      "id": 9,
+      "question": "Which is the first college in Nepal?",
+      "answers": [
+        {
+          "text": "Trichndra College",
+          "correct": true
+        },
+        {
+          "text": "Kathmandu University",
+          "correct": false
+        },
+        {
+          "text": "Nepal Sanskrit University",
+          "correct": false
+        },
+        {
+          "text": "Kantipur City College",
+          "correct": false
+        }
+      ]
+    }
+    ,
+    {
+      "id": 10,
+      "question": "During whose time the Sugauli Treaty took place?",
+      "answers": [
+        {
+          "text": "Kaji Bir Bhadra Thapa",
+          "correct": false
+        },
+        {
+          "text": "Bakhtawar Singh Thapa",
+          "correct": false
+        },
+        {
+          "text": "Bhimsen Thapa",
+          "correct": true
+        },
+        {
+          "text": "Nain Singh Thapa",
+          "correct": false
+        }
+      ]
+    }
+    ,
+    {
+      "id": 11,
+      "question": "How many years did the Gopal dynasty rule in Nepal?",
+      "answers": [
+        {
+          "text": "367 years",
+          "correct": false
+        },
+        {
+          "text": "471 years",
+          "correct": false
+        },
+        {
+          "text": "296 years",
+          "correct": false
+        },
+        {
+          "text": "521 years",
+          "correct": true
+        }
+      ]
+    }
+    ,
+    {
+      "id": 12,
+      "question": "Who is considered the first king of Nepal?",
+      "answers": [
+        {
+          "text": "Prithvi Narayan Shah",
+          "correct": false
+        },
+        {
+          "text": "Rajendra Bikram Shah",
+          "correct": false
+        },
+        {
+          "text": "Bhuktaman",
+          "correct": true
+        },
+        {
+          "text": "Nara Bhupal Shah",
+          "correct": false
+        }
+      ]
+    }
+    ,
+    {
+      "id": 13,
+      "question": "Which is Nepal’s first highway ?",
+      "answers": [
+        {
+          "text": "Tribhuvan highway",
+          "correct": true
+        },
+        {
+          "text": "Mahendra Highway",
+          "correct": false
+        },
+        {
+          "text": "Araniko Highway",
+          "correct": false
+        },
+        {
+          "text": "Prithvi Highway",
+          "correct": false
+        }
+      ]
+    }
+    ,
+    {
+      "id": 14,
+      "question": "When did the plantation program start in Nepal?",
+      "answers": [
+        {
+          "text": "B.S. 1993",
+          "correct": false
+        },
+        {
+          "text": "B.S. 2008",
+          "correct": false
+        },
+        {
+          "text": "B.S. 2002",
+          "correct": true
+        },
+        {
+          "text": "B.S. 2012",
+          "correct": false
+        }
+      ]
+    }
+    ,
+    {
+      "id": 15,
+      "question": "Which district is known for Nepal’s coffee production?",
+      "answers": [
+        {
+          "text": "Gulmi",
+          "correct": true
+        },
+        {
+          "text": "Jhapa",
+          "correct": false
+        },
+        {
+          "text": "Palpa",
+          "correct": false
+        },
+        {
+          "text": "Rasuwa",
+          "correct": false
+        }
+      ]
+    }
+  ]
